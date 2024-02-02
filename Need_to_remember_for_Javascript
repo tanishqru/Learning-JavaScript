@@ -1,0 +1,36 @@
+01. Every lines ends with a ';' which means it terminates that line and goes to the next line.
+
+02. Check 'tutorial1.html' for basics of warnings, errors etc.
+
+03. 'id' are a specific way to access elements in our website (example present in 'tutorial2.html').
+
+04. 'Console' refers to the console tab while inspecting.
+
+05. 'Document' refers to whole html document.
+
+06. 'Input' creates a textbox area to write in anything.
+
+07. Important points about 'value' and 'input' covered in 'tutorial.html'.
+
+08. Primitive datatypes in JavaScript :
+    1. string: anything placed within "" or '' (quotations)
+    2. number: integers, float(0.88,5.0),etc all come under this
+    3. boolean: true/false (True/False are incorrect)
+    4. undefined: (no value)
+    5. null: very similar to 'undefined' but have a slight difference.
+
+09. var <variable_name> = <value>; (for defining a variable in JavaScript).
+
+10. whitespaces are not allowed between/within a variable name.
+
+11. only letters and numbers(shouldn't begin with a number) are allowed for variable names. Special characters and brackets are forbidden.
+
+12. Precedence of operators in JavaScript :
+    1. Brackets
+    2. Exponents
+    3. Division
+    4. Multiplication
+    5. Addition
+    6. Subraction
+
+13.

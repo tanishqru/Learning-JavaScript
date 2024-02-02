@@ -1,0 +1,16 @@
+<html>
+    <body>
+        <h1 id="header">Hello</h1>
+        <input type="text" id="inp"/> 
+        <script type = "text/javascript">
+            document.write(document.getElementById("header").innerHTML = "Tanishq!");/*accesses the id with name 'header' within
+            heading tag and changes the h1 and displays the element present in id below h1*/
+            // 'input' in 4th line creates a textbox area to write in anything.
+            document.getElementById("inp").value = "hello";/*gives a value to be always present in the input box, can be changed
+            but retains its original input when reloading the page*/
+            console.log(document.getElementById("inp").value);
+            /*1)'document.getElementById("inp").value;' to print the value.
+              2)'console.log(document.getElementById("inp").value);' to print the value in console tab*/
+        </script>
+    </body>
+</html>
